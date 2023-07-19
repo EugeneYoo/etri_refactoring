@@ -1,0 +1,9 @@
+Datahub/model/
+Datahub/venv
+FederatedEngine/model
+ml_api/model/
+venv/
+*.whl
+*.idea
+*.zip
+__pycache__
